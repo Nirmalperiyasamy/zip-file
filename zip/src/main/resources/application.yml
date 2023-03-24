@@ -11,7 +11,7 @@ spring:
       enabled: true
       location: D:\javaagain\zip-file\temporaryStorage
       file-size-threshold: 5MB
-      max-file-size: 1MB
+      max-file-size: 15MB
       max-request-size: 20MB
 
   datasource:
